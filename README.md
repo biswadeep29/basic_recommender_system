@@ -27,7 +27,7 @@ It's not fancy, it's not perfect — just a simple learning project to get my ha
 
 ## 📂 Files Included
 
-- `app.py` and `notebook.ipynb` – main code  
+- `app.py` and `Movie Recommender System.ipynb` – main code  
 - `movies.csv` – dataset  
 - `similarity.pkl` – precomputed similarity scores  
 - `README.md` – you're reading it  
